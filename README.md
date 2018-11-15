@@ -1,2 +1,0 @@
-# website
-Market Intelligence Website
